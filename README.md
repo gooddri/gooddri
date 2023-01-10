@@ -1,8 +1,8 @@
 ## Olá, eu sou a Adriele Garcia! 
 <div align="start">
   <a href="https://github.com/gooddri">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafapili&show_icons=true&theme=monokai&cobalt_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooddri&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gooddri&show_icons=true&theme=cobalt_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooddri&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
